@@ -1,4 +1,4 @@
-# Chatbot
+# Chatbot Eliza
 
 The chatbot Eliza in this program, is a psychotherapist that was initially developed by Joseph Weizenbaum at MIT, Cambridge. The application made use of pattern matching and substitution methodology with interaction directives written as scripts using MAD-Slip.
 
