@@ -8,7 +8,7 @@ conversations.
 The chatbot spots words related to user's greetings, name, request(please), need, words related to user's family, words related to user's emotions(love/hate), definite answers (Yes/No), sorry, thank you etc. It converts statements regarding user's emotions (happy/sad/angry/love/hatred and so on) 
 and relationships (father/mother/husband/wife/child and so on) to questions.
 
-Eliza Responses to Input
+Sample Test Conversation:-
 
 Eliza (at the beginning of the program) : "Hello! I am Eliza, a psychotherapist. What is your name?"
 User : "Hi my name is Amrita" (User can also type just Hi, Hello, not type anything
